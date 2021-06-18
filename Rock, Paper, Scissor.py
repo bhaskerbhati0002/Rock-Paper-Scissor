@@ -13,9 +13,9 @@ violet = (128,0,128)
 cyan = (0,255,255)
 blue = (0,0,255)
 
-rock=pygame.image.load("rock paper scissor/rock.JPG")
-paper=pygame.image.load("rock paper scissor/paper.JPG")
-scissor=pygame.image.load("rock paper scissor/scissor.JPG")
+rock=pygame.image.load("rock.JPG")
+paper=pygame.image.load("paper.JPG")
+scissor=pygame.image.load("scissor.JPG")
 
 font = pygame.font.SysFont(None, 45)
 
